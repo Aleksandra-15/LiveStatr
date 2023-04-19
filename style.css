@@ -1,0 +1,20 @@
+.list a{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    color: #7D7D7D;
+    text-decoration: none;
+}
+.list {
+    list-style-type: none;
+}
+.list :hover{
+    color: #03A9F4;
+}
+.foto{
+   list-style-type: none;
+}
