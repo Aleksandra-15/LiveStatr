@@ -18,3 +18,55 @@
 .foto {
   list-style-type: none;
 }
+.p {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #626262;
+}
+.h3 {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+  color: #b4ad9e;
+}
+.conteiner {
+  display: block;
+}
+.header {
+  padding: 70px 0 90px;
+}
+nav ul {
+  width: 555px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+.fotos li {
+  width: 420px;
+  height: 546px;
+}
+.fotos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 906px;
+  margin: 0 auto;
+}
+.btn {
+  width: 165px;
+  height: 60px;
+  display: block;
+  margin: auto;
+  border: none;
+}
+.btn:hover {
+  background: linear-gradient(black, rgb(250, 240, 241));
+}
