@@ -18,6 +18,11 @@
 .foto {
   list-style-type: none;
 }
+.foto {
+  margin-bottom: 130px;
+  width: 420px;
+  box-shadow: -20px 20px 20px 5px rgba(0, 0, 0, 0.5);
+}
 .p {
   font-family: "Playfair Display";
   font-style: normal;
